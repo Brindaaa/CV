@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1
+{
+
+  font-family: 'Sacramento', cursive;
+}
+h5{
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+
+}
+.skills{
+
+}
+.top{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.mid{
+ background-color: #effad3;
+}
+.bottom{
+
+}
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 200px;
+}
+.bottom-cloud{
+  position:absolute;
+}
